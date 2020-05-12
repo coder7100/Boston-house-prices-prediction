@@ -28,3 +28,6 @@ NumPy is a library for the Python programming language, adding support for large
 ## pandas
 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis.
+
+
+## this project is based on machine learning using python [course](https://www.skyfilabs.com/online-courses/machine-learning-using-python-for-neat) by skyfilabs
